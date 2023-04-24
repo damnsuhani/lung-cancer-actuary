@@ -184,7 +184,7 @@ class App:
         GLabel_468["fg"] = "#333333"
         GLabel_468["justify"] = "center"
         GLabel_468["text"] = "Have you had cough in the past month? (Y/N)"
-        GLabel_468.place(x=310,y=150,width=198,height=30)
+        GLabel_468.place(x=310,y=155,width=250,height=30)
 
         self.GLineEdit_960=tk.Entry(root)
         self.GLineEdit_960["borderwidth"] = "1px"
